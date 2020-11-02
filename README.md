@@ -44,7 +44,7 @@ The variables that arfe considered to be the features for the model are:
 
 #### What variable(s) are neither targets nor features, and should be removed from the input data?
 The variable (s) that are neither targets nor features , and should be removed from the input data are:
-- `EIN and NAM`E—Identification columns
+- `EIN and NAME` — Identification columns
 
 ### Compiling, Training, and Evaluating the Model
 
