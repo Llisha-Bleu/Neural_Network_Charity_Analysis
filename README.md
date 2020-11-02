@@ -62,6 +62,6 @@ No. The target model performance of 75% was not achieved. The accuracy achieved 
 Several models were used to try to reach the 75% accuracy score. For the neural network model, several hidden layers were attempted. Neurons were adjusted. Number of epochs were increased. Different optimizers were tried. The activations attemped were 'relu' and 'tanh'. Also, an attempt was made to drop rows of noisy data from the ASK_AMT column. This was unsuccessful and the attempt was abandoned.
 
 ## Summary
-While the 75% target was not achieved, the most accurate of all the attempts was the relu with 2 layers at 24 and 8 neurons, 50 epochs and the adam optimizer. This model rendered a 72.85% accuracy score.
+While the 75% target was not achieved, the most accurate of all the attempts was the relu with 2 layers at 24 and 8 neurons, 50 epochs and the adam optimizer. This model rendered a 72.20% accuracy score.
 
 One model that would be recommended to solve the classification problem would be that of `Random forest classifier` due it the model's ability to provide insights which are not only easy to establish, interpret and implement but also faster compared to other neural models.
